@@ -7,7 +7,7 @@ This repository contains selected coursework and research projects in computatio
 ### Research Projects
 1. **SURF Breast Cancer Project** (`SURF.ipynb`)  
    - Summer Undergraduate Research Fellowship (SURF) project at the Purvis Lab, UNC Chapel Hill.  
-   - Stratification of resistant breast cancer cell populations using clustering algorithms and machine learning techniques, including graph neural networks.  
+   - Stratification of resistant breast cancer cell populations using clustering algorithms.  
 
 2. **Tumor-Normal Differential Transcriptomics** (`Differential Transcriptomics and Pathway Analysis of Tumor versus Normal Colorectal Tissue (4).pdf`)  
    - Functional Genomics class project.  
