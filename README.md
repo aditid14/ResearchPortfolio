@@ -24,7 +24,7 @@ This repository contains selected coursework and research projects in computatio
    - Applying pathway enrichment methods to investigate biological processes associated with tumor tissue.
 
 4. **Tumor-Normal-Immune Mathematical Modeling** (`Tumor-Normal-Immune Math Modeling (1).pdf`)
-   - UNC Direct Research Program project.
+   - UNC Directed Reading Program project.
    - Mathematical modeling of tumor progression and immune response using differential equations.
    - Exploring interactions among tumor, normal, and immune cell populations through quantitative modeling.
 
