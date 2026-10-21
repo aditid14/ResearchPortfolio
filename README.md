@@ -16,6 +16,7 @@ This repository contains selected coursework and research projects in computatio
    - Analyzing large-scale CPTAC prostate cancer proteomics data to investigate molecular patterns associated with prostate cancer.
    - Conducting initial exploratory analyses followed by a more focused investigation of protein ubiquitination and cancer-related molecular pathways.
    - Presented research findings and analytical approaches as part of the summer internship program.
+   - Code and data are not public pending publication.
 
 3. **Tumor-Normal Differential Transcriptomics** (`Differential Transcriptomics and Pathway Analysis of Tumor versus Normal Colorectal Tissue (4).pdf`)
    - Functional Genomics course project.
